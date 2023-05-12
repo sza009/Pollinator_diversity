@@ -1,0 +1,71 @@
+﻿municipality;site;pt_locality;date;time;temperature_(° C);wind_(m/s);precipitation ;method;color;species;sex;caste;ID;identifyed_by;captured_by;taxonomy;state;periode
+austrheim;øksnes;2;22/08/2022;15:00;NA;NA;NA;PT;W;Apis melifera;f;worker;308;zazzera;zazzera;apis;open;last
+austrheim;øksnes;3;22/08/2022;15:00;NA;NA;NA;PT;W;Apis melifera;f;worker;309;zazzera;zazzera;apis;open;last
+alver;syltneset;3;22/08/2022;11:00;NA;NA;NA;PT;B;Apis melifera;f;worker;310;zazzera;zazzera;apis;overgrown;last
+austrheim;lerøysundet;1;22/08/2022;14:00;NA;NA;NA;PT;B;Apis melifera;f;worker;311;zazzera;zazzera;apis;overgrown;last
+austrheim;øksnes;2;02/09/2022;13:00;NA;NA;NA;PT;B;Apis melifera;f;worker;312;zazzera;zazzera;apis;open;last
+alver;syltneset;3;29/08/2022;11:00;NA;NA;NA;PT;W;Apis melifera;f;worker;313;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;3;29/08/2022;11:00;NA;NA;NA;PT;W;Apis melifera;f;worker;314;zazzera;zazzera;apis;overgrown;last
+alver;syltneset ;3;29/08/2022;11:00;NA;NA;NA;PT;W;Apis melifera;f;worker;315;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;3;29/08/2022;11:00;NA;NA;NA;PT;W;Apis melifera;f;worker;316;zazzera;zazzera;apis;overgrown;last
+austrheim;lerøysundet;1;02/09/2022;12:00;NA;NA;NA;PT;W;Apis melifera;f;worker;317;zazzera;zazzera;apis;overgrown;last
+austrheim;lerøysundet;1;02/09/2022;12:00;NA;NA;NA;PT;W;Apis melifera;f;worker;318;zazzera;zazzera;apis;overgrown;last
+austrheim;lerøysundet;1;26/08/2022;12:00;NA;NA;NA;PT;B;Apis melifera;f;worker;319;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;26/08/2022;10:00;NA;NA;NA;PT;B;Apis melifera;f;worker;320;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;26/08/2022;11:00;NA;NA;NA;PT;W;Apis melifera;f;worker;321;zazzera;zazzera;apis;overgrown;last
+austrheim;utkilen;3;02/09/2022;15:00;NA;NA;NA;PT;B;Apis melifera;f;worker;322;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;29/08/2022;11:00;NA;NA;NA;PT ;B;Apis melifera;f;worker;323;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;29/08/2022;11:00;NA;NA;NA;PT;B;Apis melifera;f;worker;324;zazzera;zazzera;apis;overgrown;last
+austrheim;øksnes;1;26/08/2022;13:00;NA;NA;NA;PT;W;Apis melifera;f;worker;325;zazzera;zazzera;apis;open;last
+austrheim;øksnes;2;26/08/2022;13:00;NA;NA;NA;PT;W;Apis melifera;f;worker;326;zazzera;zazzera;apis;open;last
+austrheim;utkilen;2;22/08/2022;16:00;NA;NA;NA;PT;B;Apis melifera;f;worker;328;zazzera;zazzera;apis;overgrown;last
+austrheim;utkilen;3;26/08/2022;15:00;NA;NA;NA;PT;W;Apis melifera;f;worker;329;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;3;26/08/2022;10:00;NA;NA;NA;PT;W;Apis melifera;f;worker;330;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;2;29/08/2022;11:00;NA;NA;NA;PT;W;Apis melifera;f;worker;331;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;2;29/08/2022;11:00;NA;NA;NA;PT;W;Apis melifera;f;worker;332;zazzera;zazzera;apis;overgrown;last
+austrheim;øksnes;2;22/08/2022;15:00;NA;NA;NA;PT;B;Apis melifera;f;worker;333;zazzera;zazzera;apis;open;last
+austrheim;utkilen;3;17/06/2022;14:00;NA;NA;NA;PT;W;Apis melifera;f;worker;334;zazzera;zazzera;apis;overgrown;first
+alver;syltneset;3;10/06/2022;12:00;NA;NA;NA;PT;W;Apis melifera;f;worker;335;zazzera;zazzera;apis;overgrown;first
+austrheim;utkilen;2;10/06/2022;17:00;NA;NA;NA;PT;W;Apis melifera;f;worker;336;zazzera;zazzera;apis;overgrown;first
+alver;syltneset;3;10/06/2022;10:00;NA;NA;NA;PT;B;Apis melifera;f;worker;337;zazzera;zazzera;apis;overgrown;first
+alver;syltneset;3;10/06/2022;10:00;NA;NA;NA;PT;B;Apis melifera;f;worker;338;zazzera;zazzera;apis;overgrown;first
+austrheim;lerøysundet;2;29/08/2022;14:00;NA;NA;NA;PT;B;Apis melifera;f;worker;339;zazzera;zazzera;apis;overgrown;last
+austrheim;øksnes;1;02/09/2022;13:00;NA;NA;NA;PT;Y;Apis melifera;f;worker;340;zazzera;zazzera;apis;open;last
+austrheim;øksnes;1;02/09/2022;13:00;NA;NA;NA;PT;Y;Apis melifera;f;worker;341;zazzera;zazzera;apis;open;last
+austrheim;øksnes;1;02/09/2022;13:00;NA;NA;NA;PT;Y;Apis melifera;f;worker;342;zazzera;zazzera;apis;open;last
+alver;syltneset;3;02/09/2022;09:00;NA;NA;NA;PT;W;Apis melifera;f;worker;343;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;3;02/09/2022;09:00;NA;NA;NA;PT;W;Apis melifera;f;worker;344;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;3;02/09/2022;09:00;NA;NA;NA;PT;W;Apis melifera;f;worker;345;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;3;02/09/2022;09:00;NA;NA;NA;PT;W;Apis melifera;f;worker;346;zazzera;zazzera;apis;overgrown;last
+austrheim;øksnes;1;02/09/2022;13:00;NA;NA;NA;PT;W;Apis melifera;f;worker;347;zazzera;zazzera;apis;open;last
+austrheim;øksnes;1;02/09/2022;13:00;NA;NA;NA;PT;W;Apis melifera;f;worker;348;zazzera;zazzera;apis;open;last
+austrheim;øksnes;1;02/09/2022;13:00;NA;NA;NA;PT;W;Apis melifera;f;worker;349;zazzera;zazzera;apis;open;last
+austrheim;øksnes;1;02/09/2022;13:00;NA;NA;NA;PT;W;Apis melifera;f;worker;450;zazzera;zazzera;apis;open;last
+alver;syltneset;2;02/09/2022;09:00;NA;NA;NA;PT;W;Apis melifera;f;worker;451;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;3;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;452;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;02/09/2022;09:00;NA;NA;NA;PT;W;Apis melifera;f;worker;453;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;2;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;454;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;2;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;455;zazzera;zazzera;apis;overgrown;last
+austrheim;øksnes;2;02/09/2022;13:00;NA;NA;NA;PT;W;Apis melifera;f;worker;456;zazzera;zazzera;apis;open;last
+alver;syltneset;1;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;457;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;459;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;460;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;461;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;1;02/09/2022;09:00;NA;NA;NA;PT;B;Apis melifera;f;worker;462;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;2;29/08/2022;11:00;NA;NA;NA;PT;B;Apis melifera;f;worker;463;zazzera;zazzera;apis;overgrown;last
+alver;syltneset;2;29/08/2022;11:00;NA;NA;NA;PT;B;Apis melifera;f;worker;464;zazzera;zazzera;apis;overgrown;last
+alver;byngja;2;17/06/2022;09:00;NA;NA;NA;PT;Y;Apis melifera;f;worker;467;zazzera;zazzera;apis;open;first
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
